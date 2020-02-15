@@ -1,4 +1,4 @@
-<h1 align="center">DevRadar</h1>
+<h1 align="center">Aula git</h1>
 
 <p align="center">
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/aula_git">
