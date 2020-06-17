@@ -82,5 +82,5 @@
 ```
 
 <p>Feito os comandos acima, se tudo ocorrer bem, seu projeto estará no Github</p>
-<span>Obs. Após colocar o projeto no github, voce poderá pular o passo 5. No passo 6 deverá retirar o -u do comando apenas.</span>
+<span>Obs. Após colocar o projeto no github, voce poderá pular o passo 1 e 5. No passo 6 deverá retirar o -u do comando apenas.</span>
 <span>Nos comandos acima, se quiser enviar para uma branch remota diferente, basta substituir "master" pelo nome da branch desejada. Ex. $ git push origin branch1 . Este sifrão "$" é colocado automaticamente pelo Git Bash, então não é necessário escrever de novo.</span>
