@@ -7,12 +7,12 @@
 </p>
 
 ## Índice
-- [O que é](#o-que-é-git?)
+- [O que é](#o-que-é-git)
 - [Como utilizar](#como-utilizar)
 - [Principais comandos](#principais-comandos)
 - [Enviar ao github](#como-enviar-para-o-repositório-remoto?)
 
-### O que é git?
+### O que é git
 <p>Git é um sistema open source de controle de versão de software. É o mais utilizado por toda a comunidade de programadores. Ele é bem fácil de ser aprendido e pode ser usado em qualquer tipo de projeto, de pequenos a grandes projetos.</p>
 
 ---
@@ -54,7 +54,7 @@
 -[git documentation](https://git-scm.com/docs) : Para mais comandos e informações, consulte a documentação completa do git.
 
 ---
-### Como enviar para o repositório remoto?
+### Como enviar para o repositório remoto
 
 <p>Enviar o projeto para o repositório remoto é relativamente fácil.</p>
 <p>A sequência básica de comandos é:</p>
