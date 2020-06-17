@@ -1,5 +1,8 @@
-<<<<<<< HEAD
 <h1 align="center">Git</h1>
+
+<p align="center">
+ <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
 ## Índice
 - [O que é](#-O-que-é-git?)
@@ -77,39 +80,3 @@
 <p>Feito os comandos acima, se tudo ocorrer bem, seu projeto estará no Github</p>
 <span>Obs. Após colocar o projeto no github, voce poderá pular o passo 5. No passo 6 deverá retirar o -u do comando apenas.</span>
 <span>Nos comandos acima, se quiser enviar para uma branch remota diferente, basta substituir "master" pelo nome da branch desejada. Ex. $ git push origin branch1 . Este sifrão "$" é colocado automaticamente pelo Git Bash, então não é necessário escrever de novo.</span>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-<h1 align="center">Aula git</h1>
-
-<p align="center">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/aula_git">
- <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
-
-<p>Somento para aprendizado de comandos git</p>
-      
-<h2>Descrição</h2>
- <p>Esse repositório só está constando comandos principais do git para aprendizado </p>
-  
->>>>>>> abfdcbdec4cbdb3524ae62b68004cab436878276
-
