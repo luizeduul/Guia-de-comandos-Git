@@ -7,10 +7,10 @@
 </p>
 
 ## Índice
-- [O que é](#-o-que-é-git?)
-- [Como utilizar](#-como-utilizar)
-- [Principais comandos](#-principais-comandos)
-- [Enviar ao github](#-como-enviar-para-o-repositorio-remoto?)
+- [O que é](#o-que-é-git)
+- [Como utilizar](#como-utilizar)
+- [Principais comandos](#principais-comandos)
+- [Enviar ao github](#como-enviar-para-o-repositorio-remoto)
 
 ### O que é git?
 <p>Git é um sistema open source de controle de versão de software. É o mais utilizado por toda a comunidade de programadores. Ele é bem fácil de ser aprendido e pode ser usado em qualquer tipo de projeto, de pequenos a grandes projetos.</p>
