@@ -7,8 +7,8 @@
 </p>
 
 ## Índice
-- [O que é](#-O-que-é-git?)
-- [Como utilizar](#-Como-utilizar)
+- [O que é](#-o-que-é-git?)
+- [Como utilizar](#-como-utilizar)
 - [Principais comandos](#-principais-comandos)
 - [Enviar ao github](#-como-enviar-para-o-repositorio-remoto?)
 
