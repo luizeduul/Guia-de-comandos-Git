@@ -20,7 +20,7 @@
 
 <p>Primeiramente é necessário fazer o download do git na sua máquina, para mais detalhes consulte o site do git abaixo.</p> 
 
-- [Git](https://git-scm.com/) 
+[Site oficial do Git](https://git-scm.com/) 
 
 <p>Tendo o software do git devidamente instalado, recomendo utilizar o Gitbash (linha de comando do git) para realizar as tarefas de controle de versão.</p>
 
